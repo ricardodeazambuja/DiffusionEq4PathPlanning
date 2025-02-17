@@ -1,7 +1,7 @@
 # DiffusionEq4PathPlanning
 Quick and dirty explorations on the use of the [diffusion equation](https://en.wikipedia.org/wiki/Diffusion_equation) for 2D and 3D path planning.
 
-## Install Taichi (https://github.com/taichi-dev/taichi)
+## Install [Taichi](https://github.com/taichi-dev/taichi)
 `pip install --upgrade taichi`
 
 ## My first attempt, using only Numpy
@@ -16,6 +16,6 @@ Quick and dirty explorations on the use of the [diffusion equation](https://en.w
 * Improve the problem where the path leaks through gaps between points in many situations
 * Clean the code, add more comments, etc.
 
-### If you want to save animations to HTML, install Kaleido (https://github.com/plotly/Kaleido)
+### If you want to save animations to HTML, install [Kaleido](https://github.com/plotly/Kaleido)
 `pip install kaleido`
 
