@@ -9,6 +9,7 @@ Quick and dirty explorations on the use of the [diffusion equation](https://en.w
 
 ## My first attempt, using only Numpy
 * [First Attempt Path Planning Using diffusion - 2D and 3D - Pure Numpy.ipynb](./First%20Attempt%20Path%20Planning%20Using%20diffusion%20-%202D%20and%203D%20-%20Pure%20Numpy.ipynb)
+
 ![image](https://github.com/user-attachments/assets/167a4ae9-99e4-46be-b754-44bd40a390da)
 
 ![image](https://github.com/user-attachments/assets/76874e1c-16be-4019-b327-7f113e455538)
@@ -17,6 +18,7 @@ Quick and dirty explorations on the use of the [diffusion equation](https://en.w
 
 ## Second attempt, using Taichi and Depth Images (Maps)
 * [Second Attempt Path Planning Using diffusion - 3D - Taici.ipynb](./Second%20Attempt%20Path%20Planning%20Using%20diffusion%20-%203D%20-%20Taichi.ipynb)
+
 ![image](https://github.com/user-attachments/assets/4c89033f-1019-40ec-b979-26000cdc3bd6)
 
 ![image](https://github.com/user-attachments/assets/b5513f6b-bc75-4ae3-9626-ac0f39b389cc)
